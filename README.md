@@ -12,7 +12,7 @@ Java 8 [API](https://docs.oracle.com/javase/8/docs/api/index.html) - [Documentat
 
 [Download](https://www.eclipse.org/downloads/)
 
-[Shortcuts on Mac](https://htmlpreview.github.io/?https://github.com/MarioKusek/JavaProgrammingLinks/blob/main/eclipse-shortcuts.html)
+Shortcuts: [Mac](https://htmlpreview.github.io/?https://github.com/MarioKusek/JavaProgrammingLinks/blob/main/eclipse-shortcuts.html) [Windows](https://htmlpreview.github.io/?https://github.com/MarioKusek/JavaProgrammingLinks/blob/main/eclipse-shortcuts-win.html)
 
 ## TDD (Test-Driven Development)
 
