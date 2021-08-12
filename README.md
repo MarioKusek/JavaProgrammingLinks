@@ -2,7 +2,7 @@
 
 ## Java
 
-Java 15 (current version) [API](https://docs.oracle.com/en/java/javase/15/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/15/)
+Java 16 (current version) [API](https://docs.oracle.com/en/java/javase/16/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/16/)
 
 Java 11 (LTS) [API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/11/)
 
