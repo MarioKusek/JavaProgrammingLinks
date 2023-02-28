@@ -2,11 +2,15 @@
 
 ## Java
 
-Java 17 LTS (current version) [API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/17/)
+Java 19 LTS (current version) [API](https://docs.oracle.com/en/java/javase/19/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/19/)
 
-Java 11 LTS [API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/11/)
+Java 17 LTS (current LTS version) [API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/17/)
 
-Java 8 LTS [API](https://docs.oracle.com/javase/8/docs/api/index.html) - [Documentation](https://docs.oracle.com/javase/8/)
+Old:
+
+- Java 11 LTS [API](https://docs.oracle.com/en/java/javase/11/docs/api/index.html) - [Documentation](https://docs.oracle.com/en/java/javase/11/)
+
+- Java 8 LTS [API](https://docs.oracle.com/javase/8/docs/api/index.html) - [Documentation](https://docs.oracle.com/javase/8/)
 
 ## Eclipse
 
